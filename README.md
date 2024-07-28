@@ -56,5 +56,5 @@ Contributions are welcome! If you have suggestions or find issues, please create
 
 ## Contact
 
-For any inquiries or feedback, please reach out at [baharalekberova05@gamil.com].
+For any inquiries or feedback, please reach out at [baharalekberova05@gmail.com].
 
