@@ -24,7 +24,7 @@ This project is a clone of the Amazon website, created as a learning exercise fo
 1. Clone the repository to your local machine:
 
     ```sh
-    git clone https://github.com/yourusername/amazon-clone.git
+    git clone https://github.com/BaharAlekberova05/amazon-clone.git
     ```
 
 2. Navigate to the project directory:
@@ -37,8 +37,7 @@ This project is a clone of the Amazon website, created as a learning exercise fo
 
 ## Deployment
 
-This project is deployed on Vercel. You can view it live [here](amazon-project-js-iota.vercel.app
-).
+This project is deployed on Vercel. You can view it live [here](https://amazon-project-js-iota.vercel.app).
 
 ## Usage
 
